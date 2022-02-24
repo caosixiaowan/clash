@@ -5,3 +5,24 @@ payload:
   - DOMAIN-SUFFIX,xcfcch.com
   - DOMAIN-SUFFIX,myqcloud.com
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,unpkg.com
+  - DOMAIN-SUFFIX,aabook.cc
+  - DOMAIN-SUFFIX,geetest.com
+  - DOMAIN-SUFFIX,cdn-go.cn
+  - DOMAIN-SUFFIX,qchannel03.cn
+  - DOMAIN-SUFFIX,bdstatic.com
+  - DOMAIN-SUFFIX,alicdn.com
+  - DOMAIN-SUFFIX,myqcloud.com
+  - DOMAIN-SUFFIX,yiruiweb.xyz
+  - DOMAIN-SUFFIX,255zw.com
+  - DOMAIN-SUFFIX,81zw.com
+  - DOMAIN-SUFFIX,baicongjun.com
+  - DOMAIN-SUFFIX,yaochixs.net
+  - DOMAIN-SUFFIX,zhaishuyuan.org
+  - DOMAIN-SUFFIX,9taoxs.com
+  - DOMAIN-SUFFIX,jiaston.com
+  - DOMAIN-SUFFIX,dstiejuan.com
+  - DOMAIN-SUFFIX,whcon.net
+  - DOMAIN-SUFFIX,sbooktxt.com
+  - DOMAIN-SUFFIX,bcebos.com
+  - DOMAIN-SUFFIX,pysmei.com
