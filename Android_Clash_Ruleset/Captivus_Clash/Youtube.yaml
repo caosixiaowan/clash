@@ -85,7 +85,7 @@ payload:
   - DOMAIN-SUFFIX,youtube.com.pk
   - DOMAIN-SUFFIX,youtube.com.pt
   - DOMAIN-SUFFIX,youtube.com.py
-- DOMAIN-SUFFIX,youtube.com.qa
+  - DOMAIN-SUFFIX,youtube.com.qa
   - DOMAIN-SUFFIX,youtube.com.ro
   - DOMAIN-SUFFIX,youtube.com.sa
   - DOMAIN-SUFFIX,youtube.com.sg
