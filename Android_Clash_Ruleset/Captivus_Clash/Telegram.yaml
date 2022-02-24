@@ -1,5 +1,5 @@
+# NAME: Telegram
 payload:
-　# > Telegram
   - DOMAIN-KEYWORD,telegram
   - DOMAIN-SUFFIX,t.me
   - DOMAIN-SUFFIX,tdesktop.com
